@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.png
+*.log
+page_dump.html
+erros.txt
+.env
